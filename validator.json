@@ -1,6 +1,6 @@
 {
-  "name": "Daniel", 
-  "logoUrl": "https://raw.githubusercontent.com/DanielPianka/X1-Validator/main/logo.png",
-  "website": "",
-  "contact": ""
+  "name": "Validator_1", 
+  "logoUrl": "https://yourwebsite.com/images/logo.png",
+  "website": "https://yourwebsite.com",
+  "contact": "https://t.me/your_twitter_name"
 }
